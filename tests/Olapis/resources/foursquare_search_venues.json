@@ -1,0 +1,1706 @@
+{
+  "meta": {
+    "url": "https:\/\/api.foursquare.com\/v2\/venues\/search?ll=48.862065309,2.314750969\u0026intent=browse\u0026radius=1000\u0026oauth_token=12ZV3ZRRPWIIONPP523HT2C1QCRCBBTCMJMTCM50KNNG0EVS\u0026v=20150520\u0026location=Air+France+Invalides",
+    "content_type": "application\/json; charset=utf-8",
+    "http_code": 200,
+    "header_size": 482,
+    "request_size": 510,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 1.086475,
+    "namelookup_time": 0.060304,
+    "connect_time": 0.217798,
+    "pretransfer_time": 0.576197,
+    "size_upload": 0,
+    "size_download": 28548,
+    "speed_download": 26275,
+    "speed_upload": 0,
+    "download_content_length": 28548,
+    "upload_content_length": 0,
+    "starttransfer_time": 1.080553,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "23.235.37.184",
+    "certinfo": [],
+    "primary_port": 443,
+    "local_ip": "192.168.2.106",
+    "local_port": 34499
+  },
+  "body": {
+    "meta": {"code": 200},
+    "notifications": [
+      {
+        "type": "notificationTray",
+        "item": {"unreadCount": 0}
+      }
+    ],
+    "response": {
+      "venues": [
+        {
+          "id": "4b30f9bbf964a5208ffd24e3",
+          "name": "Jardin des Tuileries",
+          "contact": {
+            "phone": "+33140205317",
+            "formattedPhone": "+33 1 40 20 53 17",
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Rue de Rivoli",
+            "crossStreet": "Quai des Tuileries",
+            "lat": 48.863649,
+            "lng": 2.326902,
+            "distance": 907,
+            "postalCode": "75001",
+            "cc": "FR",
+            "neighborhood": "Louvre, Paris",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Rue de Rivoli (Quai des Tuileries)",
+              "75001 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d15a941735",
+              "name": "Garden",
+              "pluralName": "Gardens",
+              "shortName": "Garden",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/garden_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 32208,
+            "usersCount": 20388,
+            "tipCount": 200
+          },
+          "url": "http:\/\/www.parisinfo.com\/musee-monument-paris\/71304\/Jardin-des-Tuileries",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda10f964a5208b3521e3",
+          "name": "Musée d\u0027Orsay",
+          "contact": {
+            "phone": "+33140494814",
+            "formattedPhone": "+33 1 40 49 48 14",
+            "twitter": "museeorsay"
+          },
+          "location": {
+            "address": "1 rue de la Légion d\u0027Honneur",
+            "crossStreet": "Quai Anatole France",
+            "lat": 48.859985779617,
+            "lng": 2.3262476921082,
+            "distance": 873,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "1 rue de la Légion d\u0027Honneur (Quai Anatole France)",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d18f941735",
+              "name": "Art Museum",
+              "pluralName": "Art Museums",
+              "shortName": "Art Museum",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/museum_art_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 26388,
+            "usersCount": 22768,
+            "tipCount": 447
+          },
+          "url": "http:\/\/www.musee-orsay.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "storeId": "",
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4c25f508a852c9281ab1e56c",
+          "name": "Grand Palais",
+          "contact": {
+            "phone": "+33144131717",
+            "formattedPhone": "+33 1 44 13 17 17",
+            "twitter": "grandpalaisrmn",
+            "facebook": "322506274462149",
+            "facebookUsername": "GrandPalais.RMN",
+            "facebookName": "Grand Palais - RMN (Officiel)"
+          },
+          "location": {
+            "address": "3 avenue du Général Eisenhower",
+            "crossStreet": "Avenue des Champs-Élysées",
+            "lat": 48.866133369327,
+            "lng": 2.312525510788,
+            "distance": 481,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "3 avenue du Général Eisenhower (Avenue des Champs-Élysées)",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4deefb944765f83613cdba6e",
+              "name": "Historic Site",
+              "pluralName": "Historic Sites",
+              "shortName": "Historic Site",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/historicsite_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 22097,
+            "usersCount": 13194,
+            "tipCount": 63
+          },
+          "url": "http:\/\/www.rmn.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "storeId": "",
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda09f964a520f73321e3",
+          "name": "Place de la Concorde",
+          "contact": {
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Place de la Concorde",
+            "lat": 48.865413,
+            "lng": 2.321409,
+            "distance": 613,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Place de la Concorde",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d164941735",
+              "name": "Plaza",
+              "pluralName": "Plazas",
+              "shortName": "Plaza",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/plaza_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 26497,
+            "usersCount": 16578,
+            "tipCount": 79
+          },
+          "url": "http:\/\/www.paris.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 1,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "51c1eaf5498e33adc109c41a",
+          "name": "Rosa Bonheur sur Seine",
+          "contact": {
+            "phone": "+33147536692",
+            "formattedPhone": "+33 1 47 53 66 92",
+            "facebook": "185020138328798",
+            "facebookUsername": "rosabonheursurseine",
+            "facebookName": "Rosa Bonheur sur Seine"
+          },
+          "location": {
+            "address": "Port des Invalides",
+            "crossStreet": "Pont Alexandre III",
+            "lat": 48.863142236497,
+            "lng": 2.3154413250427,
+            "distance": 130,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Port des Invalides (Pont Alexandre III)",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d117941735",
+              "name": "Beer Garden",
+              "pluralName": "Beer Gardens",
+              "shortName": "Beer Garden",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 3579,
+            "usersCount": 2333,
+            "tipCount": 58
+          },
+          "url": "http:\/\/www.rosabonheur.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 1,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda09f964a520f63321e3",
+          "name": "Pont Alexandre III",
+          "contact": {
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Pont Alexandre III",
+            "lat": 48.8637266532,
+            "lng": 2.3135340213776,
+            "distance": 205,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Pont Alexandre III",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d1df941735",
+              "name": "Bridge",
+              "pluralName": "Bridges",
+              "shortName": "Bridge",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/bridge_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 10447,
+            "usersCount": 7027,
+            "tipCount": 80
+          },
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "51cdcd3d498e603a905fb78d",
+          "name": "Faust",
+          "contact": {
+            "facebook": "474666972618512",
+            "facebookName": "Le Faust"
+          },
+          "location": {
+            "address": "Port des Invalides",
+            "crossStreet": "Pont Alexandre III",
+            "lat": 48.863048737419,
+            "lng": 2.3128695207011,
+            "distance": 175,
+            "postalCode": "75007",
+            "cc": "FR",
+            "neighborhood": "invalides",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Port des Invalides (Pont Alexandre III)",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d117941735",
+              "name": "Beer Garden",
+              "pluralName": "Beer Gardens",
+              "shortName": "Beer Garden",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 1333,
+            "usersCount": 968,
+            "tipCount": 28
+          },
+          "url": "http:\/\/www.faustparis.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4cc12b69873c236abc55b723",
+          "name": "Berges de Seine",
+          "contact": {
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Quai d\u0027Orsay",
+            "lat": 48.863031143286,
+            "lng": 2.3157894907572,
+            "distance": 131,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Quai d\u0027Orsay",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "52e81612bcbc57f1066b7a25",
+              "name": "Pedestrian Plaza",
+              "pluralName": "Pedestrian Plazas",
+              "shortName": "Pedestrian Street\/Plaza",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/default_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 2704,
+            "usersCount": 1601,
+            "tipCount": 25
+          },
+          "url": "http:\/\/lesberges.paris.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4b71021ff964a5203a372de3",
+          "name": "L\u0027Avenue",
+          "contact": {
+            "phone": "+33140701491",
+            "formattedPhone": "+33 1 40 70 14 91",
+            "facebook": "191216400980211",
+            "facebookName": "L\u0027Avenue"
+          },
+          "location": {
+            "address": "41 avenue Montaigne",
+            "crossStreet": "À l\u0027angle de la rue François Ier",
+            "lat": 48.867158720893,
+            "lng": 2.3061948214695,
+            "distance": 845,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "41 avenue Montaigne (À l\u0027angle de la rue François Ier)",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d10c941735",
+              "name": "French Restaurant",
+              "pluralName": "French Restaurants",
+              "shortName": "French",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/french_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 7579,
+            "usersCount": 5015,
+            "tipCount": 205
+          },
+          "url": "http:\/\/www.avenue-restaurant.com",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda10f964a520983521e3",
+          "name": "Musée de l\u0027Orangerie",
+          "contact": {
+            "phone": "+33144778007",
+            "formattedPhone": "+33 1 44 77 80 07",
+            "twitter": "museeorsay",
+            "facebook": "126362617548891",
+            "facebookUsername": "museedelorangerie",
+            "facebookName": "Musée de l\u0027Orangerie"
+          },
+          "location": {
+            "address": "Jardin des Tuileries",
+            "crossStreet": "Place de la Concorde",
+            "lat": 48.863744298168,
+            "lng": 2.322626709938,
+            "distance": 606,
+            "postalCode": "75001",
+            "cc": "FR",
+            "neighborhood": "Tuileries",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Jardin des Tuileries (Place de la Concorde)",
+              "75001 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d18f941735",
+              "name": "Art Museum",
+              "pluralName": "Art Museums",
+              "shortName": "Art Museum",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/museum_art_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 6853,
+            "usersCount": 5987,
+            "tipCount": 112
+          },
+          "url": "http:\/\/www.musee-orsay.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda09f964a520fd3321e3",
+          "name": "Hôtel National des Invalides – Musée de l\u0027Armée",
+          "contact": {
+            "facebook": "154415491341102",
+            "facebookUsername": "MuseeArmeeInvalides",
+            "facebookName": "Musée de l\u0027Armée"
+          },
+          "location": {
+            "address": "Esplanade des Invalides",
+            "lat": 48.855115166742,
+            "lng": 2.3125791549683,
+            "distance": 789,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Esplanade des Invalides",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4deefb944765f83613cdba6e",
+              "name": "Historic Site",
+              "pluralName": "Historic Sites",
+              "shortName": "Historic Site",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/historicsite_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 6120,
+            "usersCount": 5222,
+            "tipCount": 61
+          },
+          "url": "http:\/\/www.culturecommunication.gouv.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4b0b4dfff964a520283023e3",
+          "name": "Ladurée",
+          "contact": {
+            "phone": "+33142602179",
+            "formattedPhone": "+33 1 42 60 21 79",
+            "twitter": "maisonladuree"
+          },
+          "location": {
+            "address": "16 rue Royale",
+            "crossStreet": "Rue Saint-Honoré",
+            "lat": 48.868554084327,
+            "lng": 2.3233723640442,
+            "distance": 959,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "16 rue Royale (Rue Saint-Honoré)",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d1d0941735",
+              "name": "Dessert Shop",
+              "pluralName": "Dessert Shops",
+              "shortName": "Desserts",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/dessert_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 6145,
+            "usersCount": 4950,
+            "tipCount": 123
+          },
+          "url": "http:\/\/www.laduree.com",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "54649272498e51a5ff67da4f",
+          "name": "Paris Photo",
+          "contact": [],
+          "location": {
+            "lat": 48.866206163869,
+            "lng": 2.3127086941593,
+            "distance": 484,
+            "cc": "FR",
+            "country": "France",
+            "formattedAddress": ["France"]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d18f941735",
+              "name": "Art Museum",
+              "pluralName": "Art Museums",
+              "shortName": "Art Museum",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/museum_art_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 67,
+            "usersCount": 64,
+            "tipCount": 0
+          },
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4bace3b2f964a52036163be3",
+          "name": "Esplanade des Invalides",
+          "contact": {
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Esplanade des Invalides",
+            "lat": 48.860988078829,
+            "lng": 2.3131799697876,
+            "distance": 166,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Esplanade des Invalides",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d164941735",
+              "name": "Plaza",
+              "pluralName": "Plazas",
+              "shortName": "Plaza",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/plaza_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 9734,
+            "usersCount": 5355,
+            "tipCount": 37
+          },
+          "url": "http:\/\/www.paris.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4b1fec11f964a520d92a24e3",
+          "name": "Assemblée Nationale",
+          "contact": {
+            "phone": "+33140636000",
+            "formattedPhone": "+33 1 40 63 60 00",
+            "twitter": "assembleenat"
+          },
+          "location": {
+            "address": "126 rue de l\u0027Université",
+            "lat": 48.861595095353,
+            "lng": 2.3185014724731,
+            "distance": 279,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "126 rue de l\u0027Université",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d12a941735",
+              "name": "Capitol Building",
+              "pluralName": "Capitol Buildings",
+              "shortName": "Capitol Building",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_capitolbuilding_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 8853,
+            "usersCount": 3425,
+            "tipCount": 10
+          },
+          "url": "http:\/\/www.assemblee-nationale.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "storeId": "",
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda10f964a520b13521e3",
+          "name": "Musée Rodin",
+          "contact": {
+            "phone": "+33144186110",
+            "formattedPhone": "+33 1 44 18 61 10",
+            "twitter": "museerodinparis",
+            "facebook": "126901424030612",
+            "facebookUsername": "museerodin",
+            "facebookName": "Musée Rodin"
+          },
+          "location": {
+            "address": "79 rue de Varenne",
+            "crossStreet": "Boulevard des Invalides",
+            "lat": 48.855305764851,
+            "lng": 2.3158621788025,
+            "distance": 756,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "79 rue de Varenne (Boulevard des Invalides)",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d18f941735",
+              "name": "Art Museum",
+              "pluralName": "Art Museums",
+              "shortName": "Art Museum",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/museum_art_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 7171,
+            "usersCount": 6198,
+            "tipCount": 131
+          },
+          "url": "http:\/\/www.musee-rodin.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "venuePage": {"id": "72045455"},
+          "storeId": "",
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "51c9b624498e805f3672c7d9",
+          "name": "Flow",
+          "contact": {
+            "phone": "+33145514951",
+            "formattedPhone": "+33 1 45 51 49 51",
+            "twitter": "flowparis",
+            "facebook": "114045228806426",
+            "facebookUsername": "flowparis",
+            "facebookName": "Flow"
+          },
+          "location": {
+            "address": "4 port des Invalides",
+            "crossStreet": "Pont Alexandre III",
+            "lat": 48.863120192716,
+            "lng": 2.3147859036071,
+            "distance": 117,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "4 port des Invalides (Pont Alexandre III)",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d117941735",
+              "name": "Beer Garden",
+              "pluralName": "Beer Gardens",
+              "shortName": "Beer Garden",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 1353,
+            "usersCount": 1069,
+            "tipCount": 34
+          },
+          "url": "http:\/\/www.flow-paris.com",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda09f964a520fe3321e3",
+          "name": "Jardins des Champs-Élysées",
+          "contact": {
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Avenue des Champs-Élysées",
+            "lat": 48.867015567656,
+            "lng": 2.3171067237854,
+            "distance": 577,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Avenue des Champs-Élysées",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d15a941735",
+              "name": "Garden",
+              "pluralName": "Gardens",
+              "shortName": "Garden",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/garden_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 6307,
+            "usersCount": 5330,
+            "tipCount": 27
+          },
+          "url": "http:\/\/www.paris.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "550eea8e498efa45c97edabe",
+          "name": "Bistro des Champs-Elysées",
+          "contact": [],
+          "location": {
+            "address": "25, Avenue Des Champs-Elysées",
+            "lat": 48.869701248675,
+            "lng": 2.3078787788467,
+            "distance": 987,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "25, Avenue Des Champs-Elysées",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "52e81612bcbc57f1066b79f1",
+              "name": "Bistro",
+              "pluralName": "Bistros",
+              "shortName": "Bistro",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 89,
+            "usersCount": 75,
+            "tipCount": 1
+          },
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4bfd2db02b83b71365a7a998",
+          "name": "Buddha Bar",
+          "contact": {
+            "phone": "+33153059000",
+            "formattedPhone": "+33 1 53 05 90 00",
+            "twitter": "buddhabargroup",
+            "facebook": "135902132745",
+            "facebookUsername": "buddhabarofficial",
+            "facebookName": "Buddha-Bar"
+          },
+          "location": {
+            "address": "8-12 rue Boissy d\u0027Anglas",
+            "lat": 48.868212125537,
+            "lng": 2.3215122645897,
+            "distance": 844,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "8-12 rue Boissy d\u0027Anglas",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d121941735",
+              "name": "Lounge",
+              "pluralName": "Lounges",
+              "shortName": "Lounge",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/default_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 7212,
+            "usersCount": 5499,
+            "tipCount": 157
+          },
+          "url": "http:\/\/www.buddhabar.com",
+          "menu": {
+            "type": "Menu",
+            "label": "Menu",
+            "anchor": "View Menu",
+            "url": "http:\/\/www.buddhabar.com\/buddha\/ckfinder\/userfiles\/files\/Carte%20SOIR%20FRANCAIS.pdf",
+            "mobileUrl": "http:\/\/www.buddhabar.com\/buddha\/ckfinder\/userfiles\/files\/Carte%20SOIR%20FRANCAIS.pdf",
+            "externalUrl": "http:\/\/www.buddhabar.com\/buddha\/ckfinder\/userfiles\/files\/Carte%20SOIR%20FRANCAIS.pdf"
+          },
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 1,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda0af964a520323421e3",
+          "name": "Tombeau de Napoléon",
+          "contact": {
+            "facebook": "498067500220221",
+            "facebookName": "Les Invalides (Napoleon\u0027s Tomb)"
+          },
+          "location": {
+            "address": "Hôtel des Invalides",
+            "lat": 48.855623426753,
+            "lng": 2.3125791549683,
+            "distance": 734,
+            "postalCode": "75007",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Hôtel des Invalides",
+              "75007 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d15c941735",
+              "name": "Cemetery",
+              "pluralName": "Cemeteries",
+              "shortName": "Cemetery",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/cemetery_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 3805,
+            "usersCount": 3385,
+            "tipCount": 31
+          },
+          "url": "http:\/\/www.culturecommunication.gouv.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4d04f426347da1cd5a762e8f",
+          "name": "Abercrombie \u0026 Fitch",
+          "contact": {
+            "phone": "+33805111559",
+            "formattedPhone": "+33 805 11 15 59"
+          },
+          "location": {
+            "address": "23 avenue des Champs-Élysées",
+            "lat": 48.869351553712,
+            "lng": 2.3077028989792,
+            "distance": 961,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "23 avenue des Champs-Élysées",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d103951735",
+              "name": "Clothing Store",
+              "pluralName": "Clothing Stores",
+              "shortName": "Apparel",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/apparel_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 9424,
+            "usersCount": 5714,
+            "tipCount": 116
+          },
+          "url": "http:\/\/abercrombie.com",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "storeId": "Champs Elysees",
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4bca515b937ca593eeb1a792",
+          "name": "Le Matignon",
+          "contact": {
+            "phone": "+33142896472",
+            "formattedPhone": "+33 1 42 89 64 72",
+            "facebook": "218516394838961",
+            "facebookName": "Matignon Paris"
+          },
+          "location": {
+            "address": "3 avenue Matignon",
+            "lat": 48.86966886613,
+            "lng": 2.3113483932721,
+            "distance": 882,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "3 avenue Matignon",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d10c941735",
+              "name": "French Restaurant",
+              "pluralName": "French Restaurants",
+              "shortName": "French",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/french_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 4334,
+            "usersCount": 2574,
+            "tipCount": 77
+          },
+          "url": "http:\/\/matignon-paris.com",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4b66a024f964a520d7252be3",
+          "name": "Bateaux Mouches",
+          "contact": {
+            "phone": "+33142259610",
+            "formattedPhone": "+33 1 42 25 96 10",
+            "facebook": "156818251007158",
+            "facebookName": "Bateaux Mouches"
+          },
+          "location": {
+            "address": "Pont de l\u0027Alma",
+            "crossStreet": "Port de la Conférence",
+            "lat": 48.864008971935,
+            "lng": 2.3048973083496,
+            "distance": 753,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Pont de l\u0027Alma (Port de la Conférence)",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d12d951735",
+              "name": "Boat or Ferry",
+              "pluralName": "Boats or Ferries",
+              "shortName": "Boat \/ Ferry",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/boat_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 5819,
+            "usersCount": 5306,
+            "tipCount": 52
+          },
+          "url": "http:\/\/www.bateaux-mouches.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "544b7926498e062a21e3ff29",
+          "name": "FIAC",
+          "contact": [],
+          "location": {
+            "lat": 48.865861929387,
+            "lng": 2.3127886350311,
+            "distance": 446,
+            "cc": "FR",
+            "country": "France",
+            "formattedAddress": ["France"]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d1e2931735",
+              "name": "Art Gallery",
+              "pluralName": "Art Galleries",
+              "shortName": "Art Gallery",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/artgallery_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 28,
+            "usersCount": 28,
+            "tipCount": 0
+          },
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4c6d415de6b7b1f7e020a98e",
+          "name": "Obélisque de la Concorde",
+          "contact": {
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "Place de la Concorde",
+            "lat": 48.86547700368,
+            "lng": 2.3211193084717,
+            "distance": 601,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Place de la Concorde",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d12d941735",
+              "name": "Monument \/ Landmark",
+              "pluralName": "Monuments \/ Landmarks",
+              "shortName": "Landmark",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_monument_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 5117,
+            "usersCount": 4162,
+            "tipCount": 26
+          },
+          "url": "http:\/\/www.paris.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda0cf964a520013521e3",
+          "name": "Petit Palais",
+          "contact": {
+            "phone": "+33153434000",
+            "formattedPhone": "+33 1 53 43 40 00",
+            "facebook": "207251779638",
+            "facebookUsername": "paris",
+            "facebookName": "PARIS"
+          },
+          "location": {
+            "address": "1 avenue Dutuit",
+            "lat": 48.866062792789,
+            "lng": 2.3145318031311,
+            "distance": 445,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "1 avenue Dutuit",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4deefb944765f83613cdba6e",
+              "name": "Historic Site",
+              "pluralName": "Historic Sites",
+              "shortName": "Historic Site",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/historicsite_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 3954,
+            "usersCount": 3300,
+            "tipCount": 55
+          },
+          "url": "http:\/\/petitpalais.paris.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4b44e42df964a5206dff25e3",
+          "name": "Unisex",
+          "contact": {
+            "phone": "+33143599025",
+            "formattedPhone": "+33 1 43 59 90 25",
+            "facebook": "167951933243582",
+            "facebookName": "Unisex bar\/club"
+          },
+          "location": {
+            "address": "32 avenue des Champs-Élysees",
+            "lat": 48.86982025694,
+            "lng": 2.3081392073793,
+            "distance": 989,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "32 avenue des Champs-Élysees",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d11e941735",
+              "name": "Cocktail Bar",
+              "pluralName": "Cocktail Bars",
+              "shortName": "Cocktail",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": false,
+          "stats": {
+            "checkinsCount": 3989,
+            "usersCount": 3036,
+            "tipCount": 67
+          },
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4b05a95df964a52078e022e3",
+          "name": "Gaumont Champs-Élysées Marignan",
+          "contact": [],
+          "location": {
+            "address": "27-33 avenue des Champs-Élysées",
+            "lat": 48.869400954053,
+            "lng": 2.3072040081024,
+            "distance": 986,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "27-33 avenue des Champs-Élysées",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d180941735",
+              "name": "Multiplex",
+              "pluralName": "Multiplexes",
+              "shortName": "Cineplex",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/movietheater_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 5616,
+            "usersCount": 2908,
+            "tipCount": 31
+          },
+          "url": "http:\/\/www.cinemasgaumontpathe.com",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "storeId": "",
+          "referralId": "v-1434411361"
+        },
+        {
+          "id": "4adcda0ef964a5205c3521e3",
+          "name": "Palais de la Découverte",
+          "contact": {
+            "phone": "+33156432020",
+            "formattedPhone": "+33 1 56 43 20 20"
+          },
+          "location": {
+            "address": "Avenue Franklin Delano Roosevelt",
+            "lat": 48.866386,
+            "lng": 2.310612,
+            "distance": 568,
+            "postalCode": "75008",
+            "cc": "FR",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "formattedAddress": [
+              "Avenue Franklin Delano Roosevelt",
+              "75008 Paris",
+              "France"
+            ]
+          },
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d191941735",
+              "name": "Science Museum",
+              "pluralName": "Science Museums",
+              "shortName": "Science Museum",
+              "icon": {
+                "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/museum_science_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ],
+          "verified": true,
+          "stats": {
+            "checkinsCount": 2328,
+            "usersCount": 1991,
+            "tipCount": 28
+          },
+          "url": "http:\/\/www.palais-decouverte.fr",
+          "specials": {
+            "count": 0,
+            "items": []
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": []
+          },
+          "referralId": "v-1434411361"
+        }
+      ]
+    }
+  }
+}

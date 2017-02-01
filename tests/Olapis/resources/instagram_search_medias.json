@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "url": "https:\/\/api.instagram.com\/v1\/locations\/search?lat=48.862065309\u0026lng=2.314750969\u0026access_token=2014064225.b294264.95b7bb3de63b4a7cabb0639dcddb562b",
+    "content_type": "application\/json; charset=utf-8",
+    "http_code": 200,
+    "header_size": 513,
+    "request_size": 454,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 1.139423,
+    "namelookup_time": 1.4e-5,
+    "connect_time": 0.14971,
+    "pretransfer_time": 0.537072,
+    "size_upload": 0,
+    "size_download": 2042,
+    "speed_download": 1792,
+    "speed_upload": 0,
+    "download_content_length": 2042,
+    "upload_content_length": 0,
+    "starttransfer_time": 1.137798,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "31.13.73.52",
+    "certinfo": [],
+    "primary_port": 443,
+    "local_ip": "192.168.2.106",
+    "local_port": 46138
+  },
+  "body": {
+    "meta": {"code": 200},
+    "data": [
+      {
+        "latitude": 48.862065309,
+        "id": "259540571",
+        "longitude": 2.314750969,
+        "name": "Air France Invalides"
+      },
+      {
+        "latitude": 48.862089173,
+        "id": "199005518",
+        "longitude": 2.314639091,
+        "name": "Musée Air France"
+      },
+      {
+        "latitude": 48.861945666,
+        "id": "345810",
+        "longitude": 2.31473226,
+        "name": "Agence Air France Invalides"
+      },
+      {
+        "latitude": 48.861945291,
+        "id": "325773671",
+        "longitude": 2.314633482,
+        "name": "Parigi"
+      },
+      {
+        "latitude": 48.861951466,
+        "id": "282134963",
+        "longitude": 2.314982239,
+        "name": "Air France Agence Invalides"
+      },
+      {
+        "latitude": 48.861987451,
+        "id": "441388744",
+        "longitude": 2.315023905,
+        "name": "Invalides Beach"
+      },
+      {
+        "latitude": 48.861861118,
+        "id": "48125731",
+        "longitude": 2.31494454,
+        "name": "Gymnase Des Invalides"
+      },
+      {
+        "latitude": 48.861855359,
+        "id": "5197720",
+        "longitude": 2.31495149,
+        "name": "The Thinker by Rodin - ideas are born here"
+      },
+      {
+        "latitude": 48.861933,
+        "id": "245035",
+        "longitude": 2.3150724,
+        "name": "Agence Air France Invalides"
+      },
+      {
+        "latitude": 48.861875368,
+        "id": "399520",
+        "longitude": 2.314416846,
+        "name": "Chez Françoise"
+      },
+      {
+        "latitude": 48.861798335,
+        "id": "307036891",
+        "longitude": 2.314441569,
+        "name": "Restaurant Chez Françoise - Aérogare Des Invalides"
+      },
+      {
+        "latitude": 48.861675,
+        "id": "47235517",
+        "longitude": 2.314713,
+        "name": "Le Transit"
+      },
+      {
+        "latitude": 48.86167401,
+        "id": "670503994",
+        "longitude": 2.314745861,
+        "name": "Air France Invalide"
+      },
+      {
+        "latitude": 48.861888777,
+        "id": "1032151",
+        "longitude": 2.315304003,
+        "name": "33 Quai D\u0027orsay"
+      },
+      {
+        "latitude": 48.862423,
+        "id": "286577526",
+        "longitude": 2.315144,
+        "name": "Saint Michel"
+      },
+      {
+        "latitude": 48.862134084,
+        "id": "248316827",
+        "longitude": 2.315423763,
+        "name": "Kidjam"
+      },
+      {
+        "latitude": 48.861568877,
+        "id": "705312681",
+        "longitude": 2.314755876,
+        "name": "Quay D\u0027orsay, Hotel Du Ministre"
+      },
+      {
+        "latitude": 48.861601255,
+        "id": "281956068",
+        "longitude": 2.315225448,
+        "name": "Estación de Invalides"
+      },
+      {
+        "latitude": 48.861486919,
+        "id": "73337128",
+        "longitude": 2.314880297,
+        "name": "Les Cars Air France"
+      },
+      {
+        "latitude": 48.862364443,
+        "id": "237854442",
+        "longitude": 2.31552198,
+        "name": "Ministère des Affaires Étrangères et du Développement International"
+      }
+    ]
+  }
+}

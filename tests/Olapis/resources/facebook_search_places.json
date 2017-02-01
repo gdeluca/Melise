@@ -1,0 +1,559 @@
+{
+  "meta": {
+    "url": "https:\/\/graph.facebook.com\/search?type=place\u0026center=48.862065309,2.314750969\u0026distance=1000\u0026access_token=457283444431189|5bYWPuffSSpzjr06lJIRZAvR8p0",
+    "content_type": "application\/json; charset=UTF-8",
+    "http_code": 200,
+    "header_size": 556,
+    "request_size": 458,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 1.078147,
+    "namelookup_time": 2.0e-5,
+    "connect_time": 0.151747,
+    "pretransfer_time": 0.473985,
+    "size_upload": 0,
+    "size_download": 14513,
+    "speed_download": 13461,
+    "speed_upload": 0,
+    "download_content_length": -1,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.920335,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "31.13.73.1",
+    "certinfo": [],
+    "primary_port": 443,
+    "local_ip": "192.168.2.106",
+    "local_port": 58995
+  },
+  "body": {
+    "data": [
+      {
+        "category": "Restaurant\/cafe",
+        "category_list": [
+          {
+            "id": "168976549819329",
+            "name": "French Restaurant"
+          }
+        ],
+        "location": {
+          "street": " 2 rue Fabert - Aérogare des Invalides",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.861875368208,
+          "longitude": 2.3144168456087
+        },
+        "name": "Chez Françoise",
+        "id": "130682413663773"
+      },
+      {
+        "category": "Restaurant\/cafe",
+        "category_list": [
+          {
+            "id": "180256082015845",
+            "name": "Pizza Place"
+          },
+          {
+            "id": "203743122984241",
+            "name": "Beer Garden"
+          }
+        ],
+        "location": {
+          "street": "Quai d\u0027Orsay",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.863221320631,
+          "longitude": 2.3153997994347
+        },
+        "name": "Rosa Bonheur sur Seine",
+        "id": "185020138328798"
+      },
+      {
+        "category": "Landmark",
+        "category_list": [
+          {
+            "id": "2503",
+            "name": "Landmark"
+          }
+        ],
+        "location": {
+          "street": "Pont Alexandre III",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.863611111111,
+          "longitude": 2.3136111111111
+        },
+        "name": "Puente Alejandro III",
+        "id": "361705447266190"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "115090141929327",
+            "name": "Park"
+          }
+        ],
+        "location": {
+          "street": "Avenue de Breteuil",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.860950287701,
+          "longitude": 2.3134537158211
+        },
+        "name": "Pelouse des Invalides",
+        "id": "257739567670430"
+      },
+      {
+        "category": "Arts\/entertainment\/nightlife",
+        "category_list": [
+          {
+            "id": "384382644921530",
+            "name": "Art Museum"
+          },
+          {
+            "id": "197384240287028",
+            "name": "Art Gallery"
+          },
+          {
+            "id": "192119584190796",
+            "name": "Event"
+          }
+        ],
+        "location": {
+          "street": "avenue du Général Eisenhower",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.866156182846,
+          "longitude": 2.3123646292114
+        },
+        "name": "Grand Palais - RMN (Officiel)",
+        "id": "322506274462149"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "197097220301977",
+            "name": "Historical Place"
+          },
+          {
+            "id": "110207655727714",
+            "name": "Public Square"
+          }
+        ],
+        "location": {
+          "street": "place de la concorde",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.86587740669,
+          "longitude": 2.3216350449122
+        },
+        "name": "Place de la concorde",
+        "id": "15976156047"
+      },
+      {
+        "category": "Transit stop",
+        "category_list": [
+          {
+            "id": "2505",
+            "name": "Transit Stop"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "",
+          "latitude": 48.85942885,
+          "longitude": 2.3127396833333
+        },
+        "name": "Estación de Invalides",
+        "id": "164007286947791"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "124861974254366",
+            "name": "Tours \u0026amp; Sightseeing"
+          },
+          {
+            "id": "209889829023118",
+            "name": "Landmark"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.860614218774,
+          "longitude": 2.3132292699185
+        },
+        "name": "Esplanade des Invalides",
+        "id": "269923339755936"
+      },
+      {
+        "category": "Landmark",
+        "category_list": [
+          {
+            "id": "151810238222781",
+            "name": "Street"
+          }
+        ],
+        "location": {
+          "street": "Marché du Trosy",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.859673476203,
+          "longitude": 2.3078755758225
+        },
+        "name": "Rue Saint-Dominique",
+        "id": "126757797367549"
+      },
+      {
+        "category": "School",
+        "category_list": [
+          {
+            "id": "365182493518892",
+            "name": "School"
+          }
+        ],
+        "location": {
+          "street": "27 Rue Las Cases",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.85484,
+          "longitude": 2.31155
+        },
+        "name": "Ecole Las Cases",
+        "id": "172409669513133"
+      },
+      {
+        "category": "Restaurant\/cafe",
+        "category_list": [
+          {
+            "id": "273819889375819",
+            "name": "Restaurant"
+          },
+          {
+            "id": "218693881483234",
+            "name": "Pub"
+          }
+        ],
+        "location": {
+          "street": "4, port des Invalides",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.863080910445,
+          "longitude": 2.3139142616272
+        },
+        "name": "Flow",
+        "id": "114045228806426"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "145887745471348",
+            "name": "Train Station"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.861703268703,
+          "longitude": 2.3232116628599
+        },
+        "name": "Sur Les Bords De Seine À Paris",
+        "id": "105493036201783"
+      },
+      {
+        "category": "Landmark",
+        "category_list": [
+          {
+            "id": "2503",
+            "name": "Landmark"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "",
+          "latitude": 48.865555555556,
+          "longitude": 2.3211111111111
+        },
+        "name": "Obelisco de Lúxor",
+        "id": "164352956911066"
+      },
+      {
+        "category": "Sports event",
+        "category_list": [
+          {
+            "id": "1805",
+            "name": "Sports Event"
+          }
+        ],
+        "location": {
+          "street": "Place de la Concorde",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.8646812,
+          "longitude": 2.32056
+        },
+        "name": "Quai 54",
+        "id": "84076853245"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "186825111351005",
+            "name": "Tourist Attraction"
+          }
+        ],
+        "location": {
+          "street": "place de la Concorde",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.865285807425,
+          "longitude": 2.3220538615296
+        },
+        "name": "La Grande Roue - Place De La Condorde - Paris -France",
+        "id": "259527967438890"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "407338945943828",
+            "name": "River"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75011",
+          "latitude": 48.860847514445,
+          "longitude": 2.3275949047616
+        },
+        "name": "Cenetta Sulla Senna",
+        "id": "162682150568745"
+      },
+      {
+        "category": "Museum\/art gallery",
+        "category_list": [
+          {
+            "id": "384382644921530",
+            "name": "Art Museum"
+          }
+        ],
+        "location": {
+          "street": "1, rue de la Légion d\u0027Honneur",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.860183129389,
+          "longitude": 2.3259295879711
+        },
+        "name": "Musée d\u0027Orsay (officiel)",
+        "id": "170924542917905"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "2500",
+            "name": "Local Business"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.858969276962,
+          "longitude": 2.3101251286706
+        },
+        "name": "Blvd De La Tour Maubourg",
+        "id": "320313054689671"
+      },
+      {
+        "category": "Landmark",
+        "category_list": [
+          {
+            "id": "2503",
+            "name": "Landmark"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "",
+          "latitude": 48.8583333333,
+          "longitude": 2.31916666667
+        },
+        "name": "Ste-Clotilde",
+        "id": "1436594243242312"
+      },
+      {
+        "category": "Landmark",
+        "category_list": [
+          {
+            "id": "209889829023118",
+            "name": "Landmark"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.8647222222,
+          "longitude": 2.31444444444
+        },
+        "name": "Cours-la-Reine",
+        "id": "119746851405394"
+      },
+      {
+        "category": "Transit stop",
+        "category_list": [
+          {
+            "id": "2505",
+            "name": "Transit Stop"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.867531,
+          "longitude": 2.313542
+        },
+        "name": "Estación de Champs-Élysées - Clemenceau",
+        "id": "138437286207867"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "2500",
+            "name": "Local Business"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.866854966588,
+          "longitude": 2.3198392096439
+        },
+        "name": "33 Rue Du Faubourg Saint Honoré Paris",
+        "id": "118472271628937"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "148932728496725",
+            "name": "Public Places \u0026amp; Attractions"
+          }
+        ],
+        "location": {
+          "street": "Rue Amelie",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.859008292004,
+          "longitude": 2.307411332218
+        },
+        "name": "Rue Amelie",
+        "id": "206284379440413"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "273819889375819",
+            "name": "Restaurant"
+          }
+        ],
+        "location": {
+          "street": "Avenue des Champs Élysée ",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75008",
+          "latitude": 48.8680168653,
+          "longitude": 2.3120765942809
+        },
+        "name": "Palace Bresil",
+        "id": "232785756883349"
+      },
+      {
+        "category": "Local business",
+        "category_list": [
+          {
+            "id": "2500",
+            "name": "Local Business"
+          }
+        ],
+        "location": {
+          "street": "",
+          "city": "Paris",
+          "state": "",
+          "country": "France",
+          "zip": "75007",
+          "latitude": 48.859369724168,
+          "longitude": 2.3229329222772
+        },
+        "name": "Brasserie LE SOLFERINO",
+        "id": "410717905639740"
+      }
+    ],
+    "paging": {"next": "https:\/\/graph.facebook.com\/v2.3\/search?type=place\u0026center=48.862065309,2.314750969\u0026distance=1000\u0026access_token=457283444431189|5bYWPuffSSpzjr06lJIRZAvR8p0\u0026limit=25\u0026offset=25\u0026__after_id=enc_AdDziA7atHMfxBhcjbF6MwChwEbUDzZARTZBaDZBnO2XDEZAZAHZBiBu9YpQ0N2ZCbWPBjs0yfAZCKZC1QE9ocijQZB0wY5ZCLl"}
+  }
+}

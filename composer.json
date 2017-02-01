@@ -1,0 +1,19 @@
+{
+  "name": "olapis/Melise",
+  "description": "Media location Information Service",
+  "minimum-stability": "stable",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Guillermo De Luca",
+      "email": "guillermo.deluca@yandex.com"
+    }
+  ],
+  "require": {
+    "silex/silex": "~1.2",
+    "symfony/serializer": "2.6.9",
+    "paulyg/autoloader": "v1.0.0",
+    "nategood/httpful": "~0.2",
+    "phpunit/phpunit": "~4.6"
+  }
+}

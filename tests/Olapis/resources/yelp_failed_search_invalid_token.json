@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "url": "http:\/\/api.yelp.com\/v2\/search?lat=10.784023174\u0026limit=10\u0026lng=106.699219769\u0026location=The%20Coffee%20House\u0026oauth_consumer_key=vWPB5B2S_x1RhwWmUUHtCg\u0026oauth_nonce=c2ad4c37238a0088d86a2761da29d024\u0026oauth_signature=6nXX0m5rHOgaERl%2BzYsEOYGmjwo%3D\u0026oauth_signature_method=HMAC-SHA1\u0026oauth_timestamp=1434472642\u0026oauth_token=dphadPLaVZ4u0ndsf1wEeG5f4WpMv\u0026oauth_version=1.0",
+    "content_type": "application\/json; charset=UTF-8",
+    "http_code": 400,
+    "header_size": 348,
+    "request_size": 671,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 0.698956,
+    "namelookup_time": 0.252536,
+    "connect_time": 0.459037,
+    "pretransfer_time": 0.459067,
+    "size_upload": 0,
+    "size_download": 119,
+    "speed_download": 170,
+    "speed_upload": 0,
+    "download_content_length": 119,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.698931,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "199.255.190.146",
+    "certinfo": [],
+    "primary_port": 80,
+    "local_ip": "192.168.2.106",
+    "local_port": 57382
+  },
+  "body": {
+    "error": {
+      "text": "One or more parameters are invalid in request",
+      "id": "INVALID_PARAMETER",
+      "field": "oauth_token"
+    }
+  }
+}

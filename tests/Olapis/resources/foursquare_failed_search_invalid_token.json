@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "url": "https:\/\/api.foursquare.com\/v2\/venues\/search?ll=10.784023174,106.699219769\u0026intent=browse\u0026radius=1000\u0026oauth_token=12ZV3ZRRPWIIONPP545T2C1QCRCBBTCMJMTCM50KNNG0EVS\u0026v=20150520\u0026location=The+Coffee+House",
+    "content_type": "application\/json; charset=utf-8",
+    "http_code": 401,
+    "header_size": 388,
+    "request_size": 507,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 0.796382,
+    "namelookup_time": 0.124387,
+    "connect_time": 0.281585,
+    "pretransfer_time": 0.606353,
+    "size_upload": 0,
+    "size_download": 110,
+    "speed_download": 138,
+    "speed_upload": 0,
+    "download_content_length": 110,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.796356,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "104.156.81.184",
+    "certinfo": [],
+    "primary_port": 443,
+    "local_ip": "192.168.2.106",
+    "local_port": 53628
+  },
+  "body": {
+    "meta": {
+      "code": 401,
+      "errorType": "invalid_auth",
+      "errorDetail": "OAuth token invalid or revoked."
+    },
+    "response": []
+  }
+}

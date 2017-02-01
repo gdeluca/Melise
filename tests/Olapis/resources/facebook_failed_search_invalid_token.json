@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "url": "https:\/\/graph.facebook.com\/search?type=place\u0026center=10.784023174,106.699219769\u0026distance=1000\u0026access_token=457283444431189|5bYWPuffSSpzjr06lJIRZAvRsdf",
+    "content_type": "application\/json; charset=UTF-8",
+    "http_code": 400,
+    "header_size": 522,
+    "request_size": 460,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 0.7045,
+    "namelookup_time": 0.028258,
+    "connect_time": 0.172044,
+    "pretransfer_time": 0.477115,
+    "size_upload": 0,
+    "size_download": 130,
+    "speed_download": 184,
+    "speed_upload": 0,
+    "download_content_length": 130,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.704474,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "31.13.73.1",
+    "certinfo": [],
+    "primary_port": 443,
+    "local_ip": "192.168.2.106",
+    "local_port": 46542
+  },
+  "body": {
+    "error": {
+      "message": "Invalid OAuth access token signature.",
+      "type": "OAuthException",
+      "code": 190
+    }
+  }
+}

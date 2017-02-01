@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "url": "https:\/\/api.instagram.com\/v1\/media\/invalid_code?access_token=2014064225.b294264.95b7bb3de63b4a7cabb0639dcddb562b",
+    "content_type": "application\/json; charset=utf-8",
+    "http_code": 400,
+    "header_size": 503,
+    "request_size": 423,
+    "filetime": -1,
+    "ssl_verify_result": 0,
+    "redirect_count": 0,
+    "total_time": 0.648331,
+    "namelookup_time": 1.9e-5,
+    "connect_time": 0.152518,
+    "pretransfer_time": 0.451,
+    "size_upload": 0,
+    "size_download": 88,
+    "speed_download": 135,
+    "speed_upload": 0,
+    "download_content_length": 88,
+    "upload_content_length": 0,
+    "starttransfer_time": 0.648298,
+    "redirect_time": 0,
+    "redirect_url": "",
+    "primary_ip": "31.13.73.52",
+    "certinfo": [],
+    "primary_port": 443,
+    "local_ip": "192.168.2.106",
+    "local_port": 51499
+  },
+  "body": {
+    "meta": {
+      "error_type": "APINotFoundError",
+      "code": 400,
+      "error_message": "invalid media id"
+    }
+  }
+}
